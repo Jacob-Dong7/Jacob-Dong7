@@ -5,8 +5,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Java</b><br>
-- [Place Holder](https://github.com)
-- <b>C++</b>
+- [Place Holder](https://github.com)<br>
+- <b>C++</b><br>
 - [Place Holder](https://github.com)
 
 <h2> 🤳 Connect with me:</h2>
