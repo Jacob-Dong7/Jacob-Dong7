@@ -9,5 +9,5 @@ C++, Java, HTML/CSS
 
 ### 📫 Contact
 📧 jdon219206@gmail.com  
-🔗 [LinkedIn](#) • [GitHub](https://github.com/Jacob-Dong7)
+🔗 [LinkedIn](#www.linkedin.com/in/jacob-dong-2412bb246) • [GitHub](https://github.com/Jacob-Dong7)
 -->
