@@ -7,7 +7,7 @@
 - <b>Java</b><br>
 - [Place Holder](https://github.com)<br>
 - <b>C++</b><br>
-- [Place Holder](https://github.com)
+- [Random Number Guesser](https://github.com/Jacob-Dong7/SimpleNumberGuesser)
 
 <h2> 🤳 Connect with me:</h2>
 
