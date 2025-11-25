@@ -5,7 +5,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>C++</b><br>
+
 - [Random Number Guesser](https://github.com/Jacob-Dong7/SimpleNumberGuesser)
+
 - [Calculator App](https://github.com/Jacob-Dong7/CalculatorApp)
 
 <h2> 🤳 Connect with me:</h2>
