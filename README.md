@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jacob! <br/><a href="https://github.com/joshmadakor1">Programmer</a> <a href="https://www.linkedin.com/in/jacob-dong-2412bb246/" /a></h1>
+<h1>Hi, I'm Jacob! <br/><a href="https://github.com/Jacob-Dong7">Programmer</a> <a href="https://www.linkedin.com/in/jacob-dong-2412bb246/" /a></h1>
 <h2>Skills:🧠</h2>
 - <b>C++</b><br>
 - <b>Java</b>
