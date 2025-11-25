@@ -4,10 +4,9 @@
 - <b>Java</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Java</b><br>
-- [Place Holder](https://github.com)<br>
 - <b>C++</b><br>
 - [Random Number Guesser](https://github.com/Jacob-Dong7/SimpleNumberGuesser)
+- [Calculator App](https://github.com/Jacob-Dong7/CalculatorApp)
 
 <h2> 🤳 Connect with me:</h2>
 
