@@ -36,27 +36,27 @@
 
 <ul>
   <li>
+    <b>Study Flow</b>  
+    <br>
+    <a href="https://github.com/Jacob-Dong7/studyflow-console">
+      <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
+    </a>
+  </li>
+  <br>
+
+  <li>
+    <b>To Do List</b>  
+    <br>
+    <a href="https://github.com/Jacob-Dong7/To-Do-List">
+      <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
+    </a>
+  </li>
+  <br>
+
+  <li>
     <b>Unit Converter</b>  
     <br>
     <a href="https://github.com/Jacob-Dong7/Unit-Converter">
-      <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
-    </a>
-  </li>
-  <br>
-
-  <li>
-    <b>Calculator App</b>  
-    <br>
-    <a href="https://github.com/Jacob-Dong7/CalculatorApp">
-      <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
-    </a>
-  </li>
-  <br>
-
-  <li>
-    <b>Random Number Guesser</b>  
-    <br>
-    <a href="https://github.com/Jacob-Dong7/SimpleNumberGuesser">
       <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
     </a>
   </li>
