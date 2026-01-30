@@ -36,7 +36,7 @@
 
 <ul>
   <li>
-    <b>Study Flow</b>  
+    <b>Study Flow - CPP</b>  
     <br>
     <a href="https://github.com/Jacob-Dong7/studyflow-console">
       <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
@@ -45,7 +45,7 @@
   <br>
 
   <li>
-    <b>To Do List</b>  
+    <b>To Do List - CPP</b>  
     <br>
     <a href="https://github.com/Jacob-Dong7/To-Do-List">
       <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
@@ -54,7 +54,7 @@
   <br>
 
   <li>
-    <b>Unit Converter</b>  
+    <b>Unit Converter - CPP</b>  
     <br>
     <a href="https://github.com/Jacob-Dong7/Unit-Converter">
       <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
