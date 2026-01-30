@@ -28,6 +28,21 @@
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/coffeescript.svg" width="40"/></td>
     <td><b>Java</b> — fundamentals, object-oriented programming, console applications</td>
   </tr>
+    <tr>
+    <td width="60"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="40"/></td>
+    <td><b>HTML</b> — semantic markup, page structure</td>
+  </tr>
+    <tr>
+    <td width="60"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40"/></td>
+    <td><b>CSS</b> — layouts, responsive design, basic styling</td>
+  </tr>
+    <tr>
+    <td width="60"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" width="40"/></td>
+    <td><b>SQLite</b> — relational databases, queries (SELECT, JOIN), basic schema design</td>
+  </tr>
+
+  
+  
 </table>
 
 <br>
