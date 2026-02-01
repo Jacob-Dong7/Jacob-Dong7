@@ -46,14 +46,20 @@
 </table>
 
 <br>
-
 <h2>👨‍💻 Software Development Projects</h2>
-
 <ul>
   <li>
     <b>Study Flow - CPP</b>  
     <br>
     <a href="https://github.com/Jacob-Dong7/studyflow-console">
+      <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
+    </a>
+  </li>
+  <br>
+    <li>
+    <b>AshFall Depth - Java</b>  
+    <br>
+    <a href="https://github.com/Jacob-Dong7/java-ashfall-depths">
       <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
     </a>
   </li>
