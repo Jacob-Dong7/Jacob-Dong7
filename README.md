@@ -41,13 +41,21 @@
     <td><b>SQLite</b> — relational databases, queries (SELECT, JOIN), basic schema design</td>
   </tr>
 
-  
-  
+
 </table>
 
 <br>
 <h2>👨‍💻 Software Development Projects</h2>
 <ul>
+  <br>
+  <li>
+    <b>Road To Terminus - Java</b>  
+    <br>
+    <a href="https://github.com/Jacob-Dong7/java-road-to-terminus">
+      <img src="https://img.shields.io/badge/View_on_GitHub-black?style=flat&logo=github"/>
+    </a>
+  </li>
+  <br>
   <li>
     <b>Study Flow - CPP</b>  
     <br>
