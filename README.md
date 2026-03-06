@@ -24,6 +24,10 @@
     <td width="60"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="40"/></td>
     <td><b>C++</b> — OOP, algorithms, Qt basics, hands-on project development</td>
   </tr>
+    <tr>
+    <td width="60"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40"/></td>
+    <td><b>Python</b> — OOP, algorithms</td>
+  </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/coffeescript.svg" width="40"/></td>
     <td><b>Java</b> — fundamentals, object-oriented programming, console applications</td>
